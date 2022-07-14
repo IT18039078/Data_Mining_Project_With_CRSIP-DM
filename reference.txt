@@ -1,0 +1,58 @@
+				01
+-------------------------------------------------------------
+Explanation and the project sample of CRISP-DM
+-------------------------------------------------------------
+
+01) Medium --: explanation about the CRISP-DM
+		https://towardsdatascience.com/how-to-perform-data-analysis-using-the-crisp-dm-approach-201708f220b2
+
+02) Kaggle--: explanation about CRISP-DM
+		https://www.kaggle.com/code/huzaifams/crisp-dm/notebook
+
+03) Kaggle sample of CRISP-DM--:
+		https://www.kaggle.com/code/yaginun/crisp-dm-process-on-the-airbnb-dataset/notebook#Summary
+
+
+				02
+---------------------------------------------------------------
+stackoverflow survey:
+		https://insights.stackoverflow.com/survey/2017
+---------------------------------------------------------------
+
+				03
+-------------------------------------------------------------------
+Real Data set for the project 12 - CRISP-DM
+
+			: https://www.kaggle.com/datasets/datota/uk-food-hygiene-rating-data-london
+-------------------------------------------------------------------
+
+				04
+
+This dataset showing the hygen rates of the buisness in the UK. 
+
+**Problem here is the public the negative impact of the public health cause by buisness which hygen 
+
+hygen is very important to check because of considering the UK citycen whether they getting product under high hygen circumstons.
+
+
+--(Exempted businesses are businesses that are low-risk to public health, for example, newsagents, chemist shops or visitor centres selling 
+--pre-wrapped goods that do not require refrigeration)
+
+
+--About this file
+--in this Notebook we extracted datasets from multiple XML sources. -Food Hygiene Agency inspect business to protect consumers and ensure food 
+--safety and hygiene is a priority for food businesses. -Dataset includings Boroughs of London inspection and rating informations.
+
+--Food Hygiene Rating Scheme
+
+--5 – Hygiene standards are very good
+
+--4 – Hygiene standards are good
+
+--3 – Hygiene standards are generally satisfactory
+
+--2 – Some improvement is necessary
+
+--1 – Major improvement is necessary
+
+--0 – Urgent improvement is required
